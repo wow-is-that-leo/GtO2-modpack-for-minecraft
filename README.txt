@@ -1,3 +1,6 @@
+INSTALL:
+use ATLauncher or MultiMC/PrismLauncher and such (third party minecraft launchers that support importing .MRPACK) to **import** the .MRPACK file!!!
+
 GtO2:
  multiplayer modpack made for my own server, to play with friends :3
 
