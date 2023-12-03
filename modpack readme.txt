@@ -2,7 +2,7 @@ INSTALL:
  use ATLauncher or MultiMC/PrismLauncher and such (third party minecraft launchers that support importing .MRPACK) to **import** the .MRPACK file!!!
 
 GtO2:
- multiplayer modpack made for my own server, to play with friends :3
+ 1.19.4 multiplayer modpack made for my own server, to play with friends :3
 
 MODS:
  AmbientSounds_FABRIC_v5.2.19_mc1.19.4
@@ -18,8 +18,10 @@ MODS:
  Clumps-fabric-1.19.4-10.0.0.3
  collective-1.19.4-6.65
  CreativeCore_FABRIC_v2.10.12_mc1.19.4
+ CustomSkinLoader_Fabric-14.18.3
  e4mc-4.0.1+1.19.4-fabric
  ears-fabric-1.19.4-1.4.6
+ easyauth-mc1.19.4-3.0.19
  enhancedblockentities-0.9+1.19.4
  entity_model_features_fabric_1.19.4-1.1.0
  entity_texture_features_fabric_1.19.4-4.6.1
@@ -54,9 +56,15 @@ MODS:
  replantingcrops-1.19.4-5.1
  scripts-chunk-loaders-mc1.19.4-0.1.1
  serversleep-datapack
+ show-me-your-skin-1.6.11+1.19.4
  slime-1.4
- SnowRealMagic-1.19.4-fabric-8.0.1(1)
+ SnowRealMagic-1.19.4-fabric-8.0.1
  sodium-fabric-mc1.19.4-0.4.10+build.24
  starlight-1.1.1+fabric.ae22326
  TakeASeat-1.0.2+mc1.19.3
  voicechat-fabric-1.19.4-2.4.29
+
+RESOURCEPACKS:
+ golden-days-base
+ golden-days-music
+ golden-days-tweaks
