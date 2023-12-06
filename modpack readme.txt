@@ -2,7 +2,7 @@ INSTALL:
  use ATLauncher or MultiMC/PrismLauncher and such (third party minecraft launchers that support importing .MRPACK) to **import** the .MRPACK file!!!
 
 GtO2:
- 1.19.4 multiplayer modpack made for my own server, to play with friends :3
+ 1.19.4 fabric modpack made for myself :3
 
 MODS:
  AmbientSounds_FABRIC_v5.2.19_mc1.19.4
@@ -11,14 +11,18 @@ MODS:
  bedrockify-1.8.1+mc1.19.4
  better-snowball-fights-1.19.4-1.0.2
  Blanket+Client+tweaks-1.1.3
+ camp-fires-cook-mobs-1.2.10+MC1.19.4
  carpet-fixes-1.19.4-1.14.1
  chat_heads-0.10.25-fabric-1.19.4
  cleancut-fabric-6.0+mc1.19.1-mc1.20.x
+ cloaker-2.0.0
  cloth-config-10.1.105-fabric
  Clumps-fabric-1.19.4-10.0.0.3
  collective-1.19.4-6.65
  CreativeCore_FABRIC_v2.10.12_mc1.19.4
+ culinaryconstruct-fabric-5.1.1+1.19.4
  CustomSkinLoader_Fabric-14.18.3
+ despawningeggshatch-1.19.4-4.1
  e4mc-4.0.1+1.19.4-fabric
  ears-fabric-1.19.4-1.4.6
  easyauth-mc1.19.4-3.0.19
@@ -54,6 +58,7 @@ MODS:
  NostalgicTweaks-1.19.4-Fabric-2.0.0-Beta-8.4
  RailOptimization-1.1+1.19.4-forge
  replantingcrops-1.19.4-5.1
+ RottenLeather-1.19.4-1.6
  scripts-chunk-loaders-mc1.19.4-0.1.1
  serversleep-datapack
  show-me-your-skin-1.6.11+1.19.4
