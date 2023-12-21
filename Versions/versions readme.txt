@@ -1,6 +1,5 @@
 -INFO
  All the versions of the modpack should be in this folder.
- Server runs the latest version.
 
 -FORMAT
 
